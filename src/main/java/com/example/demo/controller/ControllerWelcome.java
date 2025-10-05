@@ -15,6 +15,7 @@ import com.example.demo.bean.User;
 import com.example.demo.bean.UserInfo;
 import com.example.demo.service.JWTService;
 import com.example.demo.service.UserService;
+import java.rmi.Remote;
 
 @RestController
 @RequestMapping("/home")
